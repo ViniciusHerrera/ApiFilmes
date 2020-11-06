@@ -1,3 +1,5 @@
 app.py
 teste.py
-venv/
+venv
+.vscode
+__pycache__
